@@ -14,6 +14,11 @@
   --notion-hover: rgba(55, 53, 47, 0.08);
 }
 
+a{
+    color: white;
+    text-decoration: none;
+}
+
 body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
   background: var(--notion-bg);
